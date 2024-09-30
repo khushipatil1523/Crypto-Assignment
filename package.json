@@ -1,0 +1,20 @@
+{
+  "name": "binanceassign",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "lightweight-charts": "^4.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
